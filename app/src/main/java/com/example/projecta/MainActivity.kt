@@ -6,7 +6,11 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        //Narendhar wants to do something!!!
         setContentView(R.layout.activity_main)
+
+        if()
+
     }
 }
 //random comment
